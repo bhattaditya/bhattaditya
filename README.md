@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhattaditya
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning WEB DEVELPOMENT
+- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me BY FOLLOWING 😅
 
