@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhattaditya
-- 👀 I’m interested in Software Developemnt
-- 🌱 I’m currently learning Spring boot 
+- 👀 I’m interested in Software Developement
+- 🌱 I’m currently learing frontend integration with backend
 
 <!---
 bhattaditya/bhattaditya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
